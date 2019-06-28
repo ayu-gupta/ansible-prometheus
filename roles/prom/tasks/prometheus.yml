@@ -1,5 +1,5 @@
 ---
-- name: Adding User for Apache Exporter
+- name: Adding User Apache Exporter
   user:
     name: prometheus
     shell: /sbin/nologin
